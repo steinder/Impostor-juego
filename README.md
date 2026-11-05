@@ -1,2 +1,2 @@
 # Impostor-juego
-Proyecto inpostor
+Proyecto impostor
